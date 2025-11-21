@@ -2,7 +2,6 @@
 
 import { Analytics } from '@vercel/analytics/react';
 import { Figtree } from 'next/font/google';
-import { unstable_ViewTransition as ViewTransition } from 'react';
 import { Footer } from '~/components/footer';
 import { Navigation } from '~/components/navigation';
 import './globals.css';
@@ -18,10 +17,14 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
 		<html lang='en' className={figtree.className}>
 			<body className='p-7 min-h-screen flex flex-col antialiased'>
 				<Navigation />
-				<ViewTransition name='crossfade'>{children}</ViewTransition>
+				{children}
 				<Footer />
 				<Analytics />
 			</body>
 		</html>
 	);
 }
+
+export const metadata = {
+      generator: 'v0.app'
+    };
