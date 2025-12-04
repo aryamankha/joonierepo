@@ -1,8 +1,9 @@
 'use client';
 
+import {} from 'react/canary';
 import { Analytics } from '@vercel/analytics/react';
 import { Figtree } from 'next/font/google';
-import { unstable_ViewTransition as ViewTransition } from 'react';
+import { ViewTransition } from 'react';
 import { Footer } from '~/components/footer';
 import { Navigation } from '~/components/navigation';
 import './globals.css';
