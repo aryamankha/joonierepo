@@ -1,6 +1,5 @@
 'use client';
 
-import {} from 'react/canary';
 import { Analytics } from '@vercel/analytics/react';
 import { Figtree } from 'next/font/google';
 import { ViewTransition } from 'react';
