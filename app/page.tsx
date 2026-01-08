@@ -26,7 +26,7 @@ export default function Home() {
 					model and a Ricoh film simulation recipe generator.
 				</p>
 				<p className='mt-4'>
-					Also looking forward to Grace's wedding next year!
+					I can't wait for Grace's wedding next year!
 				</p>
 			</div>
 		</div>
