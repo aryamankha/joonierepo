@@ -21,7 +21,7 @@ export default function Home() {
 
 			<div className='max-w-[500px] opacity-75'>
 				<p>
-					I am currently an engineer at Vercel. In my free time, I'm working on shipping{' '}
+					I am currently an engineer at Vercel. In my free time, I'm working on shipping some cool shit like {' '}
 					<Link href='/projects#dotelier'>a pixel icon studio</Link> powered by my fine-tuned flux.1
 					model and a Ricoh film simulation recipe generator.
 				</p>
