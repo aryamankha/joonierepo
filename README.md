@@ -1,4 +1,4 @@
-Jueun Grace Yun, personal site, built using Next.js, Tailwind, and MDX.
+badshah, personal site, built using Next.js, Tailwind, and MDX.
 
 ## Experimental Next.js Features
 
