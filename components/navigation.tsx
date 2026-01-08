@@ -10,7 +10,7 @@ export function Navigation() {
 				<Logo />
 			</Link>
 			<Link href='/notes' className='opacity-75'>
-				badshah hsadflsjdfkajsdflkajhsdglkjashglkajsdnvkj
+				badshah
 			</Link>
 			<Link href='/projects' className='opacity-75'>
 				raftaar
