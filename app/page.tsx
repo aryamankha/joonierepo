@@ -25,6 +25,9 @@ export default function Home() {
 					<Link href='/projects#dotelier'>a pixel icon studio</Link> powered by my fine-tuned flux.1
 					model and a Ricoh film simulation recipe generator.
 				</p>
+				<p className='mt-4'>
+					My best friends are Ary and Pran.
+				</p>
 			</div>
 		</div>
 	);
