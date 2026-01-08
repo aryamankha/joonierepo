@@ -23,7 +23,7 @@ export default function Home() {
 				<p>
 					I am currently an engineer at Vercel. In my free time, I'm working on shipping{' '}
 					<Link href='/projects#dotelier'>a pixel icon studio</Link> powered by my fine-tuned flux.1
-					model and a Ricoh film simulation recipe generator.
+					model and a Ricoh film simulation recipe generator. I'm also getting married next March to the love of my life!
 				</p>
 			</div>
 		</div>
