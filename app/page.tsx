@@ -27,6 +27,7 @@ export default function Home() {
 
 					Ary and Pran are my best friends. 
 				</p>
+				<p className='mt-4'>YO MAMA</p>
 			</div>
 		</div>
 	);
