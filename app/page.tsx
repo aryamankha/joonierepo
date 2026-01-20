@@ -25,7 +25,7 @@ export default function Home() {
 					<Link href='/projects#dotelier'>a pixel icon studio</Link> powered by my fine-tuned flux.1
 					model and a Ricoh film simulation recipe generator.
 
-					Ary and Pran are my best friends. Grace misses her friends so much.
+					Ary and Pran are my best friends. Grace misses her friends so much. Who knows if they will meet again. 
 				</p>
 			</div>
 		</div>
