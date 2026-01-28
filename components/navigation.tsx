@@ -9,11 +9,11 @@ export function Navigation() {
 			<Link href='/'>
 				<Logo />
 			</Link>
-			<Link href='/notes' className='opacity-75'>
-				notes
+			<Link href='/stuff' className='opacity-75'>
+				stuff
 			</Link>
 			<Link href='/projects' className='opacity-75'>
-				vibes
+				things
 			</Link>
 		</nav>
 	);
