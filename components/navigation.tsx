@@ -10,10 +10,10 @@ export function Navigation() {
 				<Logo />
 			</Link>
 			<Link href='/notes' className='opacity-75'>
-				stuff
+				notes
 			</Link>
 			<Link href='/projects' className='opacity-75'>
-				things
+				projects
 			</Link>
 		</nav>
 	);
