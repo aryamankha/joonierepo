@@ -25,7 +25,7 @@ export default function Home() {
 					<Link href='/projects#dotelier'>a pixel icon studio</Link> powered by my fine-tuned flux.1
 					model and a Ricoh film simulation recipe generator.
 
-					Ary and Pran are my bestest friends. 
+					Ary and Pran are my bestest friends. I'm getting married in a few months!
 				</p>
 			</div>
 		</div>
